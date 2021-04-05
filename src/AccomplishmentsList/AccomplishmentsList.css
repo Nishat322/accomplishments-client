@@ -1,0 +1,30 @@
+.AccomplishmentsList ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+}
+
+.AccomplishmentsList{
+  padding-top: 50px
+}
+
+.AccomplishmentsList_button-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 25px;
+}
+
+.AccomplishmentsList_button-container h2{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+padding-bottom: 25px;
+}
+
+.AccomplishmentsList_headline{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bolder;
+  font-size: 18px;
+
+}
+.AccomplishmentsList_headline a{
+text-decoration: none;
+}

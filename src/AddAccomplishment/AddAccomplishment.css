@@ -1,0 +1,61 @@
+.AddAccomplishment{
+  display: block;
+  text-align: center;
+  background: rgb(239, 240, 234);
+  margin: 35px;
+  padding: 25px 0px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+} 
+
+.AddAccomplishment_form
+{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.AddAccomplishment_form input, .AddAccomplishment_form textarea, .AddAccomplishment_form text {
+    display: block;
+    text-align: left;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    padding: 10px 20px;
+    border: 10px solid #ddd;
+    border-radius: 5%;
+}
+
+.AddAccomplishment_buttons button {
+  text-align: center;
+  display: block;
+  display: inline-block;
+  border-radius: 5px;
+  background-color: #3a0606;
+  color: #bdbcbc;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bolder;
+  font-size: 18px;
+}
+
+
+
+.Button {
+  background-color: #3a0606;
+  color: #bdbcbc;
+  border-radius: 15px;
+  border: 0;
+  display: block;
+  font-size: 18px;
+  font-weight: bold;
+  height: 60px;
+  padding: 8px;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 15px;
+}
+
+.AddAccomplishment_buttons button:hover {
+  cursor: pointer;
+}

@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,100&display=swap');
+
+.Accomplishment {
+    text-align: center;
+    background-color: rgb(239, 240, 234);
+    border-radius: 15px;
+    margin: auto;
+    padding: 12px;
+}
+
+.Accomplishment_line{
+    font-family: 'Montserrat', sans-serif
+}
+
+.Accomplishment_delete{
+    background-color: #3a0606;
+    color: #bdbcbc;
+    float: right;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+
+.Accomplishment_delete:hover {
+    background-color: #bdbcbc;
+    color: black;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.AccomplishmentsList_headline{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 20px;
+}
+  
